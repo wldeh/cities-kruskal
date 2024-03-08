@@ -1,0 +1,5 @@
+1,Seattle,Washington,217.0,744955
+2,San Francisco,California,121.4,883305
+3,Los Angeles,California,1302.0,3990456
+4,Denver,Colorado,401.0,716492
+5,Kansas City,Missouri,826.3,491918
